@@ -20,4 +20,4 @@ const saludo = c+ ' ' + d;
 
 c = 'Hola de nuevo';
 
-var MiNombre = 'Fernando';
+let miNuevoNombre = 'Ricardo Tapia';
